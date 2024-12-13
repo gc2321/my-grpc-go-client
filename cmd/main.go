@@ -105,9 +105,9 @@ func main() {
 	// 	log.Fatalln("Can not create ResiliencyAdapter :", err)
 	// }
 
-	runSayHello(helloAdapter, "Bruce Wayne")
-	runSayManyHellos(helloAdapter, "Diana Prince")
-	runSayHelloToEveryone(helloAdapter, []string{"Andy", "Bill", "Christian", "Donny", "Ellen"})
+	//runSayHello(helloAdapter, "Bruce Wayne")
+	//runSayManyHellos(helloAdapter, "Diana Prince")
+	//runSayHelloToEveryone(helloAdapter, []string{"Andy", "Bill", "Christian", "Donny", "Ellen"})
 	runSayHelloContinuous(helloAdapter, []string{"Anna", "Bella", "Carol", "Diana", "Emma"})
 
 	// runGetCurrentBalance(bankAdapter, "7835697001xxxxx")
