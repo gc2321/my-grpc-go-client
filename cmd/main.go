@@ -108,7 +108,7 @@ func main() {
 	//runSayHello(helloAdapter, "Bruce Wayne")
 	//runSayManyHellos(helloAdapter, "Diana Prince")
 	//runSayHelloToEveryone(helloAdapter, []string{"Andy", "Bill", "Christian", "Donny", "Ellen"})
-	runSayHelloContinuous(helloAdapter, []string{"Anna", "Bella", "Carol", "Diana", "Emma"})
+	//runSayHelloContinuous(helloAdapter, []string{"Anna", "Bella", "Carol", "Diana", "Emma"})
 
 	// runGetCurrentBalance(bankAdapter, "7835697001xxxxx")
 	// runFetchExchangeRates(bankAdapter, "USD", "GBP")
